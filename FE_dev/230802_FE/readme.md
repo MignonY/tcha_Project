@@ -32,10 +32,10 @@
   <br>
 
   - **지금까지 정리 및 추가된 Prototype 공유**  
-    ![img](img/shortcuts.PNG) 
-    ![img](img/Trainer_Profile.PNG) 
-    ![img](img/PT_INFO.PNG) 
-    ![img](img/Calender_user_TR.PNG) 
+    ![img](img/shortcuts.png) 
+    ![img](img/Trainer_Profile.png) 
+    ![img](img/PT_INFO.png) 
+    ![img](img/Calender_user_TR.png) 
 
 <br><br>
 
@@ -181,6 +181,6 @@
     ![img](img/Payments.PNG)
 
 ### Sidebar Button 작동방식 변경
-  ![img](img/sidebar_button.PNG)
+  ![img](img/sidebar_button.png)
 
   
