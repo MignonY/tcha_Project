@@ -1,0 +1,32 @@
+{
+  "extends": "./tsconfig.paths.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/pages/*"],
+      "@shared/*": ["src/shared/*"],
+      "@customer-center/*": ["src/containers/customer-center/*"],
+      "@main/*": ["src/containers/main/*"],
+      "@trainer-info/*": ["src/containers/trainer-info/*"],
+      "@trainer-list/*": ["src/containers/trainer-list/*"],
+      "@user/*": ["src/containers/user/*"],
+      "@user-trainer/*": ["src/containers/user-trainer/*"]
+    },
+    "target": "es6",
+    "lib": ["dom", "dom.iterable", "esnext", "ES6"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx"
+  },
+  "include": ["src", "tsconfig.paths.json", "craco.config.js"]
+}
