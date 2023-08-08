@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/pages/*"],
+      "@shared/*": ["src/shared/*"],
+      "@customer-center/*": ["src/containers/customer-center/*"],
+      "@main/*": ["src/containers/main/*"],
+      "@trainer-info/*": ["src/containers/trainer-info/*"],
+      "@trainer-list/*": ["src/containers/trainer-list/*"],
+      "@user/*": ["src/containers/user/*"],
+      "@user-trainer/*": ["src/containers/user-trainer/*"]
+    }
+  }
+}
